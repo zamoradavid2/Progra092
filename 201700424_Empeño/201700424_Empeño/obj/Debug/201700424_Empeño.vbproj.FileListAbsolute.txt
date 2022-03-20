@@ -1,0 +1,12 @@
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\bin\Debug\201700424_Empeño.exe.config
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\bin\Debug\201700424_Empeño.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\bin\Debug\201700424_Empeño.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\bin\Debug\201700424_Empeño.xml
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\201700424_Empeño.vbprojAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\_201700424_Empeño.Form1.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\_201700424_Empeño.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\201700424_Empeño.vbproj.GenerateResource.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\201700424_Empeño.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\201700424_Empeño.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\201700424_Empeño.xml
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TAREAS\201700424_Empeño\201700424_Empeño\obj\Debug\201700424_Empeño.pdb
