@@ -1,0 +1,13 @@
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\bin\Debug\201700424_HOTEL.exe.config
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\bin\Debug\201700424_HOTEL.exe
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\bin\Debug\201700424_HOTEL.pdb
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\bin\Debug\201700424_HOTEL.xml
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.vbproj.AssemblyReference.cache
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\_201700424_HOTEL.Form1.resources
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\_201700424_HOTEL.Resources.resources
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.vbproj.GenerateResource.cache
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.vbproj.CoreCompileInputs.cache
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.exe
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.xml
+C:\Users\Zamor\Desktop\201700424_CORTO3\201700424_HOTEL\obj\Debug\201700424_HOTEL.pdb
